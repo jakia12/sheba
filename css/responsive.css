@@ -393,7 +393,7 @@ Xtra Small Screen - Small Mobile
     
     }
     .tokenomic-title h2{
-        font-size: 50px;
+        font-size: 46px;
     }
 
     .token-left-item{
@@ -452,6 +452,7 @@ Xtra Small Screen - Small Mobile
 
     .disclaimer-inner h2 {
         font-size: 35px;
+        line-height: 30px
     }
     .disclaimer-inner p {
         font-size: 17px;
